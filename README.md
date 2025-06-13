@@ -215,4 +215,6 @@ This project uses code from the [Trezor project](https://github.com/trezor/trezo
 ## License
 This project is licensed under the [MIT License](/LICENSE)
 
-Update:  Wednesday 11 June 2025 Anchors updated
+
+
+Update:  13.06.2025 04:26:45 File references
